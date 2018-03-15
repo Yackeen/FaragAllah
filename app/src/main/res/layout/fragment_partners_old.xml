@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/darkGrey"
+    android:orientation="horizontal"
+    android:padding="@dimen/_5sdp"
+    android:weightSum="2"
+    tools:context="yackeen.com.faragallah.Home.MainActivity">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:weightSum="4">
+
+            <TextView
+                android:id="@+id/desc1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="WWE_SmackDown_Here_Comes_the_Pain_PC_Game_Free_Full_Version"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_8sdp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="end"
+                    android:orientation="vertical">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/image2"
+                        android:layout_width="@dimen/_50sdp"
+                        android:layout_height="@dimen/_50sdp"
+                        android:layout_gravity="end"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/partners"
+                        app:civ_border_color="@android:color/holo_red_dark"
+                        app:civ_border_width="@dimen/_1sdp" />
+
+                    <TextView
+                        android:id="@+id/year2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="1995"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:textSize="@dimen/_14sdp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="@dimen/_1sdp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="@dimen/_8sdp"
+                    android:background="@android:color/holo_red_dark" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/desc3"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="WWE_SmackDown_Here_Comes_the_Pain_PC_Game_Free_Full_Version"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_8sdp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="end"
+                    android:orientation="vertical">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/image4"
+                        android:layout_width="@dimen/_50sdp"
+                        android:layout_height="@dimen/_50sdp"
+                        android:layout_gravity="end"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/partners"
+                        app:civ_border_color="@android:color/holo_red_dark"
+                        app:civ_border_width="@dimen/_1sdp" />
+
+                    <TextView
+                        android:id="@+id/year4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="1995"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:textSize="@dimen/_14sdp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="@dimen/_1sdp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="@dimen/_8sdp"
+                    android:background="@android:color/holo_red_dark" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="@dimen/_1sdp"
+            android:layout_height="match_parent"
+            android:background="@android:color/holo_red_dark" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="4">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="start"
+                android:orientation="horizontal">
+
+                <View
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="@dimen/_1sdp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="@dimen/_8sdp"
+                    android:background="@android:color/holo_red_dark" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="end"
+                    android:orientation="vertical">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/image1"
+                        android:layout_width="@dimen/_50sdp"
+                        android:layout_height="@dimen/_50sdp"
+                        android:layout_gravity="start"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/partners"
+                        app:civ_border_color="@android:color/holo_red_dark"
+                        app:civ_border_width="@dimen/_1sdp" />
+
+                    <TextView
+                        android:id="@+id/year1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="start"
+                        android:layout_weight="1"
+                        android:text="1995"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:textSize="@dimen/_14sdp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/desc2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="WWE_SmackDown_Here_Comes_the_Pain_PC_Game_Free_Full_Version"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_8sdp" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="start"
+                android:orientation="horizontal">
+
+                <View
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="@dimen/_1sdp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="@dimen/_8sdp"
+                    android:background="@android:color/holo_red_dark" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="end"
+                    android:orientation="vertical">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/image3"
+                        android:layout_width="@dimen/_50sdp"
+                        android:layout_height="@dimen/_50sdp"
+                        android:layout_gravity="start"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/partners"
+                        app:civ_border_color="@android:color/holo_red_dark"
+                        app:civ_border_width="@dimen/_1sdp" />
+
+                    <TextView
+                        android:id="@+id/year3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="start"
+                        android:layout_weight="1"
+                        android:text="1995"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:textSize="@dimen/_14sdp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/desc4"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="WWE_SmackDown_Here_Comes_the_Pain_PC_Game_Free_Full_Version"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_8sdp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="4">
+
+            <TextView
+                android:id="@+id/desc5"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="WWE_SmackDown_Here_Comes_the_Pain_PC_Game_Free_Full_Version"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_8sdp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="end"
+                    android:orientation="vertical">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/image6"
+                        android:layout_width="@dimen/_50sdp"
+                        android:layout_height="@dimen/_50sdp"
+                        android:layout_gravity="end"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/partners"
+                        app:civ_border_color="@android:color/holo_red_dark"
+                        app:civ_border_width="@dimen/_1sdp" />
+
+                    <TextView
+                        android:id="@+id/year6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="1995"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:textSize="@dimen/_14sdp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="@dimen/_1sdp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="@dimen/_8sdp"
+                    android:background="@android:color/holo_red_dark" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/desc7"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="WWE_SmackDown_Here_Comes_the_Pain_PC_Game_Free_Full_Version"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_8sdp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="end"
+                    android:orientation="vertical">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/image8"
+                        android:layout_width="@dimen/_50sdp"
+                        android:layout_height="@dimen/_50sdp"
+                        android:layout_gravity="end"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/partners"
+                        app:civ_border_color="@android:color/holo_red_dark"
+                        app:civ_border_width="@dimen/_1sdp" />
+
+                    <TextView
+                        android:id="@+id/year8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="1995"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:textSize="@dimen/_14sdp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="@dimen/_1sdp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="@dimen/_8sdp"
+                    android:background="@android:color/holo_red_dark" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="@dimen/_1sdp"
+            android:layout_height="match_parent"
+            android:background="@android:color/holo_red_dark" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="4">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="start"
+                android:orientation="horizontal">
+
+                <View
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="@dimen/_1sdp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="@dimen/_8sdp"
+                    android:background="@android:color/holo_red_dark" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="end"
+                    android:orientation="vertical">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/image5"
+                        android:layout_width="@dimen/_50sdp"
+                        android:layout_height="@dimen/_50sdp"
+                        android:layout_gravity="start"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/partners"
+                        app:civ_border_color="@android:color/holo_red_dark"
+                        app:civ_border_width="@dimen/_1sdp" />
+
+                    <TextView
+                        android:id="@+id/year5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="start"
+                        android:layout_weight="1"
+                        android:text="1995"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:textSize="@dimen/_14sdp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/desc6"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="WWE_SmackDown_Here_Comes_the_Pain_PC_Game_Free_Full_Version"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_8sdp" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="start"
+                android:orientation="horizontal">
+
+                <View
+                    android:layout_width="@dimen/_20sdp"
+                    android:layout_height="@dimen/_1sdp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="@dimen/_8sdp"
+                    android:background="@android:color/holo_red_dark" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="end"
+                    android:orientation="vertical">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/image7"
+                        android:layout_width="@dimen/_50sdp"
+                        android:layout_height="@dimen/_50sdp"
+                        android:layout_gravity="start"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/partners"
+                        app:civ_border_color="@android:color/holo_red_dark"
+                        app:civ_border_width="@dimen/_1sdp" />
+
+                    <TextView
+                        android:id="@+id/year7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="start"
+                        android:layout_weight="1"
+                        android:text="1995"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:textSize="@dimen/_14sdp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/desc8"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="WWE_SmackDown_Here_Comes_the_Pain_PC_Game_Free_Full_Version"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_8sdp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

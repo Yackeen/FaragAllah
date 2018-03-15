@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="yackeen.com.faragallah.Home.MainActivity">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/_5sdp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/pager"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_170sdp"
+                android:background="@android:color/white"
+                android:clipToPadding="false"
+                android:layout_gravity="center_vertical"
+                />
+
+            <TextView
+                android:id="@+id/desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="hbhjbjblb jhbhjb jhkhj jhjhjkb jhvhjvjhv hjvhvhvj
+                bjjbjb jhb
+                hjbhjb hbjhkjb jhvhjbjhvhjv
+                vhjvjhkvhjv
+                vvjhvsc
+                koo voopp hjbjhb
+jhfjvkhgb vjhvjkvjh zzzzzzzz xxxxxxxxx"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/_14sdp" />
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+
+</android.support.constraint.ConstraintLayout>

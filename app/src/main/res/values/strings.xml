@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">FaragAlla</string>
+    <string name="latest_news">Latest news</string>
+    <string name="about">About us</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="products">Products</string>
+    <string name="partners">Partners</string>
+    <string name="certificates">Certificates</string>
+    <string name="companiesAndFactories"><![CDATA[Companies&Factories]]></string>
+    <string name="internationalBrands">International Brands</string>
+    <string name="futureExpansion">Future expansion</string>
+    <string name="distributionCenters">Distribution centers</string>
+    <string name="press_back_again">Press back again to exit</string>
+    <string name="connection_problem">Opps looks like network connectivity problem</string>
+    <string name="offline_problem">Your device is not online,check wifi and try again!</string>
+    <string name="presence">Market</string>
+    <string name="brands">Brands</string>
+    <string name="categories">Categories</string>
+    <string name="home">Home</string>
+    <string name="unitWeight">Unit weight</string>
+    <string name="cartonContent">Content of each carton</string>
+    <string name="weHave3Comp">Companies</string>
+    <string name="weHave15Fact">Factories</string>
+    <string name="weHave50000Empl">Employees</string>
+    <string name="weHave6Cont">Continent presence</string>
+    <string name="weHave20Cert">Certificates</string>
+    <string name="weHave1000SKU">SKU</string>
+    <string name="contactUs">Contact us</string>
+    <string name="and"><![CDATA[->]]></string>
+    <string name="headOffice">Head Office:</string>
+    <string name="address">Address:  36 Kafr Abdo st , Roushdy , Alex-Egypt</string>
+    <string name="address2">Address:  New Borg El Arab , First industrial zone block 25 Faragalla, Alex-Egypt</string>
+    <string name="tel">Tel: +20-3-5450200</string>
+    <string name="tel2">Tel: +20-3-4592043/ +20-3-4592040</string>
+    <string name="fax">Fax: +20-3-5460200</string>
+    <string name="fax2">Fax: +20-3-4592041</string>
+    <string name="factory">Factory</string>
+    <string name="mail1">info@faragalla.com</string>
+    <string name="mail2">export@faragalla.com</string>
+    <string name="web">Website: www.faragalla.com</string>
+    <string name="square2">Africa</string>
+    <string name="square3">Asia</string>
+    <string name="presence12">Australia - Belgum - Canada - Chilly - Denmark - Finland - France - Germany - Gorge town - Greece - Halti - Ireland - Italy - Jamalca -  - Netherlands - Norway - Ploand - Surinam - Sweden - Switzerland - Turkey - UK - USA</string>
+    <string name="africa">Algeria - Angola - Benin - Berundi - Cameroon - Cape Verdi - Chad - Comoros - Congo - Congo DRC - Cote D’ivoire - Djibouti - Equatorial Guinea - Ethiopia - Gabon - Ghana - Guinea Bissau - Guinea Conakry - Juba - Kenya - Liberia - Libya - Madagascar - Mali - Mauritania - Mauritius - Mayotte - Morocco - Niger - Ronion - Rwanda  - Senegal - Seychelles - Sierra Leon - Somaya - South Africa - Sudan - Tunis - Uganda - Zambia</string>
+    <string name="asia">Bahrain - Brunei - China - Jordan - Korea - KSA - Kuwait - Lebanon - Malaysia - Maldives - Oman - Pakistan - Palestine - Singapore - UAE</string>
+    <string name="europe">Australia - Austria - Belgium - Canada - Chile - Denmark - Finland - France - Germany - George Town - Greece - Haiti - Ireland - Italy - Jamaica - Netherlands - Norway - Poland - Surinam - Sweden - Switzerland - Turkey - UK - USA</string>
+    <string name="square1"><![CDATA[EUROPE,USA&AUSTRALIA]]></string>
+    <string name="language">عربي</string>
+    <string name="yearsOfExp">Global confidence in our quality</string>
+    <string name="about_us">About Us</string>
+    <string name="since1973">since 1973</string>
+    <string name="back">Back</string>
+</resources>

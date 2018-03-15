@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\8997bdaa7be3366689e835a621c7f55d\AndroidManifest.xml:2:1-7:12
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\circleindicator-1.2.2.aar\0eeaeb9fe6e636300f6f677763df4234\AndroidManifest.xml:2:1-12:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.4] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\sdp-android-1.0.4.aar\d84e4298eb94fe1a275be99c3461c356\AndroidManifest.xml:2:1-11:12
+MERGED from [io.paperdb:paperdb:2.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\paperdb-2.1.aar\77857917e1b3be0ba4768abe6c196859\AndroidManifest.xml:2:1-14:12
+MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\autofittextview-0.2.1.aar\e64674282b3405e0cec35bf309b9ae88\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\97ded361275ac6ebfde19016716b3ebc\AndroidManifest.xml:17:1-28:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\81694a57685a210778255551bd76eda8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\library-2.1.3.aar\97bf14b9b10f33c100ade9f38057d4a0\AndroidManifest.xml:2:1-11:12
+MERGED from [org.mightyfrog.centeringrecyclerview:centeringrecyclerview:1.1.6] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\centeringrecyclerview-1.1.6.aar\5b327ed6870b475362b915214b34079b\AndroidManifest.xml:2:1-12:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\120738722883ef2cef3bfe293406dff7\AndroidManifest.xml:2:1-13:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.11] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.11.aar\60488a9b753020dc6843ac199577abc7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.race604.waveloading:library:1.1.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\d37108f516828dc513d877325446e95b\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\628310afb2b3a9db687bb664c9a7c93c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\00c3835268706f54f7f1448e16b8a879\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fedc13a5da30e711f7f37bac4a64e4d5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b2f516ee1e7af903085f53e5259a907b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\81d3495256224c4e6fb11db5b8389c30\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\64c3aabca34d00aae3cc8e60f1cf2fbf\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1a3ea4ea45e6a473eb04bb2b0547479f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\62c37e0505e522b9d531fd15bcf5b8ba\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\118976b99aa2f23c4fa0b45257cbabb5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c76a03db6c47cb1a34e16a967bd11e52\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\23dbaeadf788ef878163a3f60105606c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a62513801dd0f8256cc460a2410efb17\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8930b7565d03c467806b12f40de16907\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9b5dccb748f4b69c25ad43e659ed2b64\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:9:5-38:19
+MERGED from [io.paperdb:paperdb:2.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\paperdb-2.1.aar\77857917e1b3be0ba4768abe6c196859\AndroidManifest.xml:12:5-20
+MERGED from [io.paperdb:paperdb:2.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\paperdb-2.1.aar\77857917e1b3be0ba4768abe6c196859\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\97ded361275ac6ebfde19016716b3ebc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\97ded361275ac6ebfde19016716b3ebc\AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\81694a57685a210778255551bd76eda8\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\81694a57685a210778255551bd76eda8\AndroidManifest.xml:9:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\120738722883ef2cef3bfe293406dff7\AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\120738722883ef2cef3bfe293406dff7\AndroidManifest.xml:11:5-20
+MERGED from [com.race604.waveloading:library:1.1.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\d37108f516828dc513d877325446e95b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.race604.waveloading:library:1.1.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\d37108f516828dc513d877325446e95b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\628310afb2b3a9db687bb664c9a7c93c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\628310afb2b3a9db687bb664c9a7c93c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\00c3835268706f54f7f1448e16b8a879\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\00c3835268706f54f7f1448e16b8a879\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fedc13a5da30e711f7f37bac4a64e4d5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fedc13a5da30e711f7f37bac4a64e4d5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b2f516ee1e7af903085f53e5259a907b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b2f516ee1e7af903085f53e5259a907b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\81d3495256224c4e6fb11db5b8389c30\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\81d3495256224c4e6fb11db5b8389c30\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\64c3aabca34d00aae3cc8e60f1cf2fbf\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\64c3aabca34d00aae3cc8e60f1cf2fbf\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1a3ea4ea45e6a473eb04bb2b0547479f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1a3ea4ea45e6a473eb04bb2b0547479f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\62c37e0505e522b9d531fd15bcf5b8ba\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\62c37e0505e522b9d531fd15bcf5b8ba\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\118976b99aa2f23c4fa0b45257cbabb5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\118976b99aa2f23c4fa0b45257cbabb5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c76a03db6c47cb1a34e16a967bd11e52\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c76a03db6c47cb1a34e16a967bd11e52\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\23dbaeadf788ef878163a3f60105606c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\23dbaeadf788ef878163a3f60105606c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a62513801dd0f8256cc460a2410efb17\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a62513801dd0f8256cc460a2410efb17\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8930b7565d03c467806b12f40de16907\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8930b7565d03c467806b12f40de16907\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9b5dccb748f4b69c25ad43e659ed2b64\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9b5dccb748f4b69c25ad43e659ed2b64\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:15:9-47
+	android:largeHeap
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:14:9-33
+	android:icon
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:12:9-42
+	android:allowBackup
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:11:9-35
+		REJECTED from [com.race604.waveloading:library:1.1.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\d37108f516828dc513d877325446e95b\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:17:9-42
+	tools:replace
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:10:9-33
+activity#yackeen.com.faragallah.Home.MainActivity
+ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:19:9-21:62
+	android:screenOrientation
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:21:13-50
+	android:name
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:20:13-46
+activity#yackeen.com.faragallah.Base.BaseActivity
+ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:22:9-24:53
+	android:screenOrientation
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:24:13-50
+	android:name
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:23:13-46
+activity#yackeen.com.faragallah.Splash.SplashActivity
+ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:screenOrientation
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:27:13-50
+	android:name
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:26:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:31:27-74
+meta-data#yackeen.com.faragallah.Helpers.ImageLoader.LimitCacheSizeGlideModule
+ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:35:9-37:43
+	android:value
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:37:13-40
+	android:name
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml:36:13-96
+uses-sdk
+INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\8997bdaa7be3366689e835a621c7f55d\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\8997bdaa7be3366689e835a621c7f55d\AndroidManifest.xml:5:5-43
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\circleindicator-1.2.2.aar\0eeaeb9fe6e636300f6f677763df4234\AndroidManifest.xml:8:5-10:41
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\circleindicator-1.2.2.aar\0eeaeb9fe6e636300f6f677763df4234\AndroidManifest.xml:8:5-10:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.4] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\sdp-android-1.0.4.aar\d84e4298eb94fe1a275be99c3461c356\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.4] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\sdp-android-1.0.4.aar\d84e4298eb94fe1a275be99c3461c356\AndroidManifest.xml:7:5-9:41
+MERGED from [io.paperdb:paperdb:2.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\paperdb-2.1.aar\77857917e1b3be0ba4768abe6c196859\AndroidManifest.xml:8:5-10:41
+MERGED from [io.paperdb:paperdb:2.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\paperdb-2.1.aar\77857917e1b3be0ba4768abe6c196859\AndroidManifest.xml:8:5-10:41
+MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\autofittextview-0.2.1.aar\e64674282b3405e0cec35bf309b9ae88\AndroidManifest.xml:7:5-9:41
+MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\autofittextview-0.2.1.aar\e64674282b3405e0cec35bf309b9ae88\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\97ded361275ac6ebfde19016716b3ebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\97ded361275ac6ebfde19016716b3ebc\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\81694a57685a210778255551bd76eda8\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\81694a57685a210778255551bd76eda8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\library-2.1.3.aar\97bf14b9b10f33c100ade9f38057d4a0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\library-2.1.3.aar\97bf14b9b10f33c100ade9f38057d4a0\AndroidManifest.xml:7:5-9:41
+MERGED from [org.mightyfrog.centeringrecyclerview:centeringrecyclerview:1.1.6] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\centeringrecyclerview-1.1.6.aar\5b327ed6870b475362b915214b34079b\AndroidManifest.xml:8:5-10:41
+MERGED from [org.mightyfrog.centeringrecyclerview:centeringrecyclerview:1.1.6] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\centeringrecyclerview-1.1.6.aar\5b327ed6870b475362b915214b34079b\AndroidManifest.xml:8:5-10:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\120738722883ef2cef3bfe293406dff7\AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\120738722883ef2cef3bfe293406dff7\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.11] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.11.aar\60488a9b753020dc6843ac199577abc7\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.11] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.11.aar\60488a9b753020dc6843ac199577abc7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.race604.waveloading:library:1.1.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\d37108f516828dc513d877325446e95b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.race604.waveloading:library:1.1.1] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\d37108f516828dc513d877325446e95b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\628310afb2b3a9db687bb664c9a7c93c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\628310afb2b3a9db687bb664c9a7c93c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\00c3835268706f54f7f1448e16b8a879\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\00c3835268706f54f7f1448e16b8a879\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fedc13a5da30e711f7f37bac4a64e4d5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fedc13a5da30e711f7f37bac4a64e4d5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b2f516ee1e7af903085f53e5259a907b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b2f516ee1e7af903085f53e5259a907b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\81d3495256224c4e6fb11db5b8389c30\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\81d3495256224c4e6fb11db5b8389c30\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\64c3aabca34d00aae3cc8e60f1cf2fbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\64c3aabca34d00aae3cc8e60f1cf2fbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1a3ea4ea45e6a473eb04bb2b0547479f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1a3ea4ea45e6a473eb04bb2b0547479f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\62c37e0505e522b9d531fd15bcf5b8ba\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\62c37e0505e522b9d531fd15bcf5b8ba\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\118976b99aa2f23c4fa0b45257cbabb5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\118976b99aa2f23c4fa0b45257cbabb5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c76a03db6c47cb1a34e16a967bd11e52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c76a03db6c47cb1a34e16a967bd11e52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\23dbaeadf788ef878163a3f60105606c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\23dbaeadf788ef878163a3f60105606c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a62513801dd0f8256cc460a2410efb17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a62513801dd0f8256cc460a2410efb17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8930b7565d03c467806b12f40de16907\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8930b7565d03c467806b12f40de16907\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9b5dccb748f4b69c25ad43e659ed2b64\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9b5dccb748f4b69c25ad43e659ed2b64\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\628310afb2b3a9db687bb664c9a7c93c\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+		ADDED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BFCI\codes\android\_android_studio_projects\FaragAllah\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\97ded361275ac6ebfde19016716b3ebc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\628310afb2b3a9db687bb664c9a7c93c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\628310afb2b3a9db687bb664c9a7c93c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\00c3835268706f54f7f1448e16b8a879\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\00c3835268706f54f7f1448e16b8a879\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b2f516ee1e7af903085f53e5259a907b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\b2f516ee1e7af903085f53e5259a907b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\81d3495256224c4e6fb11db5b8389c30\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\81d3495256224c4e6fb11db5b8389c30\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\64c3aabca34d00aae3cc8e60f1cf2fbf\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\64c3aabca34d00aae3cc8e60f1cf2fbf\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1a3ea4ea45e6a473eb04bb2b0547479f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1a3ea4ea45e6a473eb04bb2b0547479f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\62c37e0505e522b9d531fd15bcf5b8ba\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\62c37e0505e522b9d531fd15bcf5b8ba\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\118976b99aa2f23c4fa0b45257cbabb5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\118976b99aa2f23c4fa0b45257cbabb5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c76a03db6c47cb1a34e16a967bd11e52\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\c76a03db6c47cb1a34e16a967bd11e52\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\23dbaeadf788ef878163a3f60105606c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\23dbaeadf788ef878163a3f60105606c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a62513801dd0f8256cc460a2410efb17\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a62513801dd0f8256cc460a2410efb17\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8930b7565d03c467806b12f40de16907\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8930b7565d03c467806b12f40de16907\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\97ded361275ac6ebfde19016716b3ebc\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\97ded361275ac6ebfde19016716b3ebc\AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9b5dccb748f4b69c25ad43e659ed2b64\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9b5dccb748f4b69c25ad43e659ed2b64\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Fawzy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9b5dccb748f4b69c25ad43e659ed2b64\AndroidManifest.xml:26:13-58

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.mightyfrog.centeringrecyclerview:centeringrecyclerview-1.1.6">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/centeringrecyclerview-1.1.6.aar/5b327ed6870b475362b915214b34079b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/centeringrecyclerview-1.1.6.aar/5b327ed6870b475362b915214b34079b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mightyfrog.centeringrecyclerview/centeringrecyclerview/1.1.6/9dd977cf8d1c9477aea01416a40250a94644941e/centeringrecyclerview-1.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

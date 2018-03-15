@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="rotation">180</integer>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s، %2$s، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="about">من نحن</string>
+    <string name="about_us">من نحن</string>
+    <string name="address">العنوان: 36 شارع كفر عبده-رشدي-الإسكندرية/مصر</string>
+    <string name="address2">العنوان: برج العرب الجديد-25 أول منطقة صناعية -الإسكندرية/مصر</string>
+    <string name="africa">Algeria - Angola - Benin - Berundi - Cameroon - Cape Verdi - Chad - Comoros - Congo - Congo DRC - Cote D’ivoire - Djibouti - Equatorial Guinea - Ethiopia - Gabon - Ghana - Guinea Bissau - Guinea Conakry - Juba - Kenya - Liberia - Libya - Madagascar - Mali - Mauritania - Mauritius - Mayotte - Morocco - Niger - Ronion - Rwanda - Senegal - Seychelles - Sierra Leon - Somaya - South Africa - Sudan - Tunis - Uganda - Zambia</string>
+    <string name="and"><![CDATA[->]]></string>
+    <string name="app_name">FaragAlla</string>
+    <string name="asia">Bahrain - Brunei - China - Jordan - Korea - KSA - Kuwait - Lebanon - Malaysia - Maldives - Oman - Pakistan - Palestine - Singapore - UAE</string>
+    <string name="back">عودة</string>
+    <string name="brands">الماركة</string>
+    <string name="categories">المصنفات</string>
+    <string name="certificates">الشهادات</string>
+    <string name="companiesAndFactories">الشركات والمصانع</string>
+    <string name="connection_problem">فشل الإتصال</string>
+    <string name="contactUs">تواصل معنا</string>
+    <string name="europe">Australia - Austria - Belgium - Canada - Chile - Denmark - Finland - France - Germany - George Town - Greece - Haiti - Ireland - Italy - Jamaica - Netherlands - Norway - Poland - Surinam - Sweden - Switzerland - Turkey - UK - USA</string>
+    <string name="factory">المصنع</string>
+    <string name="fax">فاكس: +20-3-5460200</string>
+    <string name="fax2">فاكس: +20-3-4592041</string>
+    <string name="headOffice">المكتب الرئيسي</string>
+    <string name="home">الرئيسية</string>
+    <string name="language">English</string>
+    <string name="mail1">info@faragalla.com</string>
+    <string name="mail2">export@faragalla.com</string>
+    <string name="offline_problem">تفقد حالة الإتصال</string>
+    <string name="partners">الشركاء</string>
+    <string name="presence">السوق</string>
+    <string name="presence12">Australia - Belgum - Canada - Chilly - Denmark - Finland - France - Germany - Gorge town - Greece - Halti - Ireland - Italy - Jamalca -  - Netherlands - Norway - Ploand - Surinam - Sweden - Switzerland - Turkey - UK - USA</string>
+    <string name="press_back_again">إضغط رجوع مرة اخرى للخروج</string>
+    <string name="products">المنتجات</string>
+    <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
+    <string name="square1"><![CDATA[EUROPE,USA&AUSTRALIA]]></string>
+    <string name="square2">Africa</string>
+    <string name="square3">Asia</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="tel">ت: +20-3-5450200</string>
+    <string name="tel2">ت: +20-3-4592043/ +20-3-4592040</string>
+    <string name="weHave1000SKU">SKU</string>
+    <string name="weHave15Fact">مصنع</string>
+    <string name="weHave20Cert">شهادة</string>
+    <string name="weHave3Comp">شركات</string>
+    <string name="weHave50000Empl">موظف</string>
+    <string name="weHave6Cont">قارات</string>
+    <string name="web">Website: www.faragalla.com</string>
+</resources>

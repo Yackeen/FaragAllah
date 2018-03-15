@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/products"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/baseGrey"
+    android:padding="@dimen/_5sdp"
+    tools:context="yackeen.com.faragallah.Home.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/brand"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:paddingTop="@dimen/_minus50sdp"
+        android:layout_height="wrap_content">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/brandImage"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_gravity="center_vertical" />
+
+        <TextView
+            android:id="@+id/brandName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="@dimen/_5sdp"
+            android:textColor="@color/darkestGrey"
+            android:textSize="@dimen/_14sdp" />
+    </LinearLayout>
+
+
+    <org.mightyfrog.widget.CenteringRecyclerView
+        android:id="@+id/recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/brand"
+        android:background="@color/baseGrey"
+         />
+
+</RelativeLayout>

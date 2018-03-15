@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">FaragAlla</string>
+    <string name="about">من نحن</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="products">المنتجات</string>
+    <string name="partners">الشركاء</string>
+    <string name="certificates">الشهادات</string>
+    <string name="companiesAndFactories">الشركات والمصانع</string>
+    <string name="press_back_again">إضغط رجوع مرة اخرى للخروج</string>
+    <string name="connection_problem">فشل الإتصال</string>
+    <string name="offline_problem">تفقد حالة الإتصال</string>
+    <string name="presence">السوق</string>
+    <string name="brands">الماركة</string>
+    <string name="categories">المصنفات</string>
+    <string name="home">الرئيسية</string>
+    <string name="weHave3Comp">شركات</string>
+    <string name="weHave15Fact">مصنع</string>
+    <string name="weHave50000Empl">موظف</string>
+    <string name="weHave6Cont">قارات</string>
+    <string name="weHave20Cert">شهادة</string>
+    <string name="weHave1000SKU">SKU</string>
+    <string name="contactUs">تواصل معنا</string>
+    <string name="and"><![CDATA[->]]></string>
+    <string name="headOffice">المكتب الرئيسي</string>
+    <string name="address">العنوان: 36 شارع كفر عبده-رشدي-الإسكندرية/مصر</string>
+    <string name="address2">العنوان: برج العرب الجديد-25 أول منطقة صناعية -الإسكندرية/مصر</string>
+    <string name="tel">ت: +20-3-5450200</string>
+    <string name="tel2">ت: +20-3-4592043/ +20-3-4592040</string>
+    <string name="fax">فاكس: +20-3-5460200</string>
+    <string name="fax2">فاكس: +20-3-4592041</string>
+    <string name="factory">المصنع</string>
+    <string name="mail1">info@faragalla.com</string>
+    <string name="mail2">export@faragalla.com</string>
+    <string name="web">Website: www.faragalla.com</string>
+    <string name="square2">Africa</string>
+    <string name="square3">Asia</string>
+    <string name="presence12">Australia - Belgum - Canada - Chilly - Denmark - Finland - France - Germany - Gorge town - Greece - Halti - Ireland - Italy - Jamalca -  - Netherlands - Norway - Ploand - Surinam - Sweden - Switzerland - Turkey - UK - USA</string>
+    <string name="africa">Algeria - Angola - Benin - Berundi - Cameroon - Cape Verdi - Chad - Comoros - Congo - Congo DRC - Cote D’ivoire - Djibouti - Equatorial Guinea - Ethiopia - Gabon - Ghana - Guinea Bissau - Guinea Conakry - Juba - Kenya - Liberia - Libya - Madagascar - Mali - Mauritania - Mauritius - Mayotte - Morocco - Niger - Ronion - Rwanda - Senegal - Seychelles - Sierra Leon - Somaya - South Africa - Sudan - Tunis - Uganda - Zambia</string>
+    <string name="asia">Bahrain - Brunei - China - Jordan - Korea - KSA - Kuwait - Lebanon - Malaysia - Maldives - Oman - Pakistan - Palestine - Singapore - UAE</string>
+    <string name="europe">Australia - Austria - Belgium - Canada - Chile - Denmark - Finland - France - Germany - George Town - Greece - Haiti - Ireland - Italy - Jamaica - Netherlands - Norway - Poland - Surinam - Sweden - Switzerland - Turkey - UK - USA</string>
+    <string name="square1"><![CDATA[EUROPE,USA&AUSTRALIA]]></string>
+    <string name="language">English</string>
+    <string name="about_us">من نحن</string>
+    <string name="back">عودة</string>
+</resources>
